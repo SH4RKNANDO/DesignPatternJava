@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaExamen.iml" filepath="$PROJECT_DIR$/JavaExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/be.isims.ihm.tp1.ex/be.isims.ihm.tp1.ex.iml" filepath="$PROJECT_DIR$/be.isims.ihm.tp1.ex/be.isims.ihm.tp1.ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/be.isims.ihm.tp2.ex/be.isims.ihm.tp2.ex.iml" filepath="$PROJECT_DIR$/be.isims.ihm.tp2.ex/be.isims.ihm.tp2.ex.iml" />
+    </modules>
+  </component>
+</project>
